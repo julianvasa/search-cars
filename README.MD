@@ -6,7 +6,7 @@ If the odometer of some record decreases from the previous one, display field `O
 **Steps to follow to run:**
 - `install lombok plugin in the IDE`
 - `mvn clean package` 
-- `mvn spring-boot run`
+- `mvn spring-boot:run`
 - `open http://localhost:8080/vin/VSSZZZ6JZ9R056308` search with a test vin
 
 
